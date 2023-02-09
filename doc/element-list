@@ -1,0 +1,7 @@
+com.cg.ofr
+com.cg.ofr.configuration
+com.cg.ofr.controller
+com.cg.ofr.entities
+com.cg.ofr.exception
+com.cg.ofr.repository
+com.cg.ofr.service

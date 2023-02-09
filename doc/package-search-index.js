@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.cg.ofr"},{"l":"com.cg.ofr.configuration"},{"l":"com.cg.ofr.controller"},{"l":"com.cg.ofr.entities"},{"l":"com.cg.ofr.exception"},{"l":"com.cg.ofr.repository"},{"l":"com.cg.ofr.service"}];updateSearchResults();
